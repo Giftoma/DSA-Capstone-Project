@@ -37,5 +37,9 @@ This is where I start my analytical journey after going through classes and buil
    - IF FUNCTION
    - COUNTIF FUNCTION
 
-### Data Visualisation
+### Data Visualizsation
+
+![Screenshot 2025-07-04 223418](https://github.com/user-attachments/assets/b168637e-84cc-445f-996e-6b743aed6c15)
+
+
       
