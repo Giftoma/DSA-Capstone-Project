@@ -59,6 +59,10 @@ reenshot 2025-07-05 060319](https://github.com/user-attachments/assets/94b54a38-
 ![Screenshot 2025-07-05 061414](https://github.com/user-attachments/assets/a5ea6b9e-6600-43e0-9a56-fb111e22de4a)
 
 
+Click here for Excel Analysis [AMAZON EXCEL](![image](https://github.com/user-attachments/assets/3c521a7d-8eeb-46da-a434-016a8e214d9d)
+
+
+
 ## Project Topic: Palmoria Group HR Analysis
 
 ### Project Overview
