@@ -74,5 +74,11 @@ EDA involves the exploring of Data to answer some questions about the data such 
 - Salary structure and gender pay gaps
 
 ### Data Analysis
+ This is where some measures were used during analysis such as
+ 
+ --- Power BI
+ 
+ Gender Count = COUNT('Employee'[Gender])
+ 
 
 
