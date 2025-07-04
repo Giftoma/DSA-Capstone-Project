@@ -46,6 +46,10 @@ This is where I start my analytical journey after going through classes and buil
       
 ![Screenshot 2025-07-04 231431](https://github.com/user-attachments/assets/daf08b06-2337-436a-86af-1a98af8b372f)
 
+**Key Insights**
+- 1352 products were purchased
+- Average Rating Count product: 17653
+
 ## Project Topic: Palmoria Group HR Analysis
 
 ### Project Overview
