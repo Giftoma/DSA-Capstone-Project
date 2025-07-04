@@ -59,7 +59,21 @@ reenshot 2025-07-05 060319](https://github.com/user-attachments/assets/94b54a38-
 ![Screenshot 2025-07-05 061414](https://github.com/user-attachments/assets/a5ea6b9e-6600-43e0-9a56-fb111e22de4a)
 
 
-Click here for Excel Analysis [AMAZON EXCEL](![image](https://github.com/user-attachments/assets/3c521a7d-8eeb-46da-a434-016a8e214d9d)
+
+### Data Cleaning and Preparation
+---
+In Data Cleaning and Preparations, we performed the following actions;
+- Getting the Data, Loading the data and inspecting the data
+- Handling undisclosed gender
+- Data cleaning and formating
+
+### Exploratory Data Analysis
+---
+EDA involves the exploring of Data to answer some questions about the data such as;
+- What is the gender distribution in the organization?
+- Rating insights based on gender
+- Salary structure and gender pay gaps
+
 
 
 
@@ -76,22 +90,6 @@ Click here for Excel Analysis [AMAZON EXCEL](![image](https://github.com/user-at
   - Data Cleaning
   - DAX Measures
 
-### Data Cleaning and Preparation
----
-In Data Cleaning and Preparations, we performed the following actions;
-- Getting the Data, Loading the data and inspecting the data
-- Handling undisclosed gender
-- Data cleaning and formating
-
-### Exploratory Data Analysis
----
-EDA involves the exploring of Data to answer some questions about the data such as;
-- What is the gender distribution in the organization?
-- Rating insights based on gender
-- Salary structure and gender pay gaps
-
-### Data Analysis
----
  This is where some measures were used during analysis such as
  
  
