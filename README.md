@@ -54,7 +54,7 @@ This is where I start my analytical journey after going through classes and buil
 
 ### Tools used
 ---
-- Power BI (For Creating a Report)
+- Power BI [Download] ([For Creating a Report](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - Data Collection
   - Data Cleaning
   - DAX Measures
@@ -72,4 +72,7 @@ EDA involves the exploring of Data to answer some questions about the data such 
 - What is the gender distribution in the organization?
 - Rating insights based on gender
 - Salary structure and gender pay gaps
+
+### Data Analysis
+
 
