@@ -41,5 +41,13 @@ This is where I start my analytical journey after going through classes and buil
 
 ![Screenshot 2025-07-04 223418](https://github.com/user-attachments/assets/b168637e-84cc-445f-996e-6b743aed6c15)
 
+![Screenshot 2025-07-04 231137](https://github.com/user-attachments/assets/5eeec51e-1f45-4a95-a5c4-98728fbb31cc)
 
       
+![Screenshot 2025-07-04 231431](https://github.com/user-attachments/assets/daf08b06-2337-436a-86af-1a98af8b372f)
+
+## Project Topic: Palmoria Group HR Analysis
+
+### Project Overview
+---
+ This Data Analysis project aims to address issues concerning gender inequality. By analysis the parameters of the data, we seek to analyse the company's HR data and come up with recommendations for management's attention. This will enable us to generate insights on Gender-Related issues.
