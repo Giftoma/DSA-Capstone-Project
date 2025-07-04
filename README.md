@@ -51,3 +51,25 @@ This is where I start my analytical journey after going through classes and buil
 ### Project Overview
 ---
  This Data Analysis project aims to address issues concerning gender inequality. By analysis the parameters of the data, we seek to analyse the company's HR data and come up with recommendations for management's attention. This will enable us to generate insights on Gender-Related issues.
+
+### Tools used
+---
+- Power BI (For Creating a Report)
+  - Data Collection
+  - Data Cleaning
+  - DAX Measures
+
+### Data Cleaning and Preparation
+---
+In Data Cleaning and Preparations, we performed the following actions;
+- Getting the Data, Loading the data and inspecting the data
+- Handling undisclosed gender
+- Data cleaning and formating
+
+### Exploratory Data Analysis
+---
+EDA involves the exploring of Data to answer some questions about the data such as;
+- What is the gender distribution in the organization?
+- Rating insights based on gender
+- Salary structure and gender pay gaps
+
