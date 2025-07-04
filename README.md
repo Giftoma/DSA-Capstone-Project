@@ -96,4 +96,18 @@ EDA involves the exploring of Data to answer some questions about the data such 
 
 ![Scr![Screenshot 2025-07-05 001259](https://github.com/user-attachments/assets/8e8a1450-b8cb-4c54-87b6-8fc12bc59a7c)
 
+**Key Insights**
+- In the gender distribution of the organization, there are more males than females in both region and department
+- The male has higher ratings than females, ranging from Average to Very poor
+- There should be more focus on the Accounting department of the region Kaduna and Marketing department of the region Abuja
+- 28 employees fall under the salary band of $20,000-$30,000
+- 90 employees fall under the salary band of $90,000-$100,000
+- 96 employees fall under the salary band of $50,000-$60,000
+- 97 employees fall under the salary band of $110,000-$120,000
+- 101 employees fall under the salary band of $30,000-$40,000
+- 99 employees fall under the salary band of $60,000-$70,000
+- 105 employees fall under the salary band of $40,000-$50,000
+- 108 employees fall under the salary band of $80,000-$90,000
+- 117 employees fall under the salary band of $70,000-$80,000
+
 
