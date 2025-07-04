@@ -55,7 +55,9 @@ reenshot 2025-07-05 060319](https://github.com/user-attachments/assets/94b54a38-
 ![Screenshot 2025-07-05 060306](https://github.com/user-attachments/assets/09621ca2-4853-41f0-b5e6-a72d2f1801af)
 
 
-- 1351 products were purchased
+
+![Screenshot 2025-07-05 061414](https://github.com/user-attachments/assets/a5ea6b9e-6600-43e0-9a56-fb111e22de4a)
+
 
 ## Project Topic: Palmoria Group HR Analysis
 
