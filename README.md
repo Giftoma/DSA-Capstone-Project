@@ -21,4 +21,10 @@ This is where I start my analytical journey after going through classes and buil
   1. Data loading and inspection
   2. Handling missing variables
   3. Data cleamimg and formatting
+
+### Exploratory Data Analysis
+ This involves the exploring of data to answer some questions such as:
+   - What is the average discount percentage by product category?
+   - How many products are listed under each category?
+   - What is the total number of reviews per category?
       
