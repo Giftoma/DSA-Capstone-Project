@@ -44,11 +44,18 @@ This is where I start my analytical journey after going through classes and buil
 ![Screenshot 2025-07-04 231137](https://github.com/user-attachments/assets/5eeec51e-1f45-4a95-a5c4-98728fbb31cc)
 
       
+![Screenshot 2025-07-05 060240](https://github.com/user-attachments/assets/0a4e285f-159e-415a-8201-fc640987a15e)
 ![Screenshot 2025-07-04 231431](https://github.com/user-attachments/assets/daf08b06-2337-436a-86af-1a98af8b372f)
 
-**Key Insights**
-- 1352 products were purchased
-- Average Rating Count product: 17653
+![Sc![Screenshot 2025-07-05 060355](https://github.com/user-attachments/assets/47c78341-8db3-477a-bba6-106766a796bd)
+reenshot 2025-07-05 060319](https://github.com/user-attachments/assets/94b54a38-7846-42ee-9fc5-e3ba3a607827)
+![Screenshot 2025-07-05 060422](https://github.com/user-attachments/assets/b3c073e0-f241-4dbc-9d37-867e03014b11)
+![Screenshot 2025-07-05 060448](https://github.com/user-attachments/assets/4a6e2b2e-f9b5-4de3-8e26-d57e27c02746)
+
+![Screenshot 2025-07-05 060306](https://github.com/user-attachments/assets/09621ca2-4853-41f0-b5e6-a72d2f1801af)
+
+
+- 1351 products were purchased
 
 ## Project Topic: Palmoria Group HR Analysis
 
