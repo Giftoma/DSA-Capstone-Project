@@ -78,7 +78,16 @@ EDA involves the exploring of Data to answer some questions about the data such 
  This is where some measures were used during analysis such as
  
  
-  ```Power BI
+  ---Power BI
+  
   Gender Count = COUNT('Employee'[Gender])
+
+  ### Data Visualization
+  ---
+  
+
+  
+
+
 
 
