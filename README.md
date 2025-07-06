@@ -74,6 +74,13 @@ EDA involves the exploring of Data to answer some questions about the data such 
 - Rating insights based on gender
 - Salary structure and gender pay gaps
 
+**Key Insights**
+---
+- Total number of purchase: 1351 product were purchased. This suggest a good product market reliability,promoting customer's demand.
+- Total potential Revenue is ₹113,643,74m. This indicates strong market demand.
+- Total of Average actual price: ₹5,691.18
+- Total of Average discouted price: ₹3,304.80
+- Average rating count on product: 17644.5
 
 
 
@@ -97,6 +104,18 @@ EDA involves the exploring of Data to answer some questions about the data such 
   
   Gender Count = COUNT('Employee'[Gender])
 
+Gender Percentage = DIVIDE(CALCULATE(COUNT('Employee'[Gender])),CALCULATE(COUNT('Employee'[Gender]),ALL('Employee'[Gender])))
+
+Average Rating by Gender = AVERAGE('Employee'[Rating])
+
+Rating Count by Gender = COUNT('Employee'[Rating])
+
+Average Salary by Gender = AVERAGE('Employee'[Salary])
+
+Salary Count by Department and Region = COUNT('Employee'[Salary])
+
+Employees Below Minimum Salary = COUNTX(FILTER('Employee','Employee'[Salary]<90000),'Employee'[Salary])
+
 ```
 
   ### Data Visualization
@@ -119,9 +138,11 @@ EDA involves the exploring of Data to answer some questions about the data such 
 -![Screenshot 2025-07-05 070235](https://github.com/user-attachments/assets/028742ca-d82f-4375-9a7d-27a0c2186a74)
 
 **Key Insights**
- In the gender distribution of the organization, there are more males than females in both region and department
-- The male has higher ratings than females, ranging from Average to Very poor
-- There should be more focus on the Accounting department of the region Kaduna and Marketing department of the region Abuja
+---
+- In the gender distribution of the organization, there are more males than females in both region and department bringing about Gender Inequality
+- The male has lower rating than the female ranging from Good to very poor. Only in Average do they have higher rating. This makes the male have the Total higher rating distribution by Gender
+   - Male: 485
+   - Female: 461
 - 28 employees fall under the salary band of $20,000-$30,000
 - 90 employees fall under the salary band of $90,000-$100,000
 - 96 employees fall under the salary band of $50,000-$60,000
@@ -132,5 +153,9 @@ EDA involves the exploring of Data to answer some questions about the data such 
 - 108 employees fall under the salary band of $80,000-$90,000
 - 117 employees fall under the salary band of $70,000-$80,000
 - Bonus Rate of employees is 29.75
+
+
+
+
 
 
